@@ -1,0 +1,1230 @@
+[
+    {
+        "id" : 1,
+        "categoryId": "48520",
+        "imageUrl": "",
+        "name": "猜你喜欢",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/bef75a8769644613ac97925d13fc7b0a/10000004/primary.png",
+                "productName": "361°"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/a218d7dce2b24522bf8edf9cdef8a371/10000006/primary.png",
+                "productName": "Miss Sixty"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/0225e1d60d54430c8250cc074d0da915/10000008/primary.png",
+                "productName": "七度"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/22d735b3b2e643a4a9004a6b016d40bc/10000012/primary.png",
+                "productName": "a02"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/94505b69c16140a6bb285f5feac18cfb/10000018/primary.png",
+                "productName": "安妮克莱因"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/9abd7ccbc1214dc2a7fd1641aa99e3af/10000037/primary.png",
+                "productName": "COBO"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/0bf583a962b643199fbe0a7f03280d5d/10000043/primary.png",
+                "productName": ""
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/ec685b8d2f01449282789faa3b51babf/10000045/primary.png",
+                "productName": "DE VERLI"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/5e41b32740b8457aa80e6c024214d420/10000050/primary.png",
+                "productName": "东之澜"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/eab0355c7606472a9f69fcb79b3178e1/10000057/primary.png",
+                "productName": "ELLE"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/b9d457c0d851416bad122d87128bfffc/10000058/primary.png",
+                "productName": "ELLE HOMME"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "http://a.vpimg2.com/upload/brandcool/0/49010ec5c0d0461890419104d23fe4c4/10000067/primary.png",
+                "productName": "EVERGREEN"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "categoryId": "21005",
+        "imageUrl": "",
+        "name": "女装",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/11/21/11/1542796269366.jpg",
+                "productName": "a02"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/04/188/1536049640184.jpg",
+                "productName": "CRZ"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/08/30/149/1535608887205.jpg",
+                "productName": "DAZZLE"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/08/30/38/1535598679515.png",
+                "productName": "EIN"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/30/83/1538302136753.jpg",
+                "productName": "艾维"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2019/01/03/188/1546513425979.jpg",
+                "productName": "MO&Co."
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/14/141/1526267071946.jpg",
+                "productName": "百图"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/23/63/1540265697877.jpg",
+                "productName": "德玛纳"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/02/26/103/1519641404100.jpg",
+                "productName": "歌力思"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/23/8/1540266893309.jpg",
+                "productName": "杰西"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/30/170/1538301895879.jpg",
+                "productName": "杰西伍"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/07/26/194/1532574293862.jpg",
+                "productName": "卡莎布兰卡"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "categoryId": "20973",
+        "imageUrl": "",
+        "name": "鞋靴",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/31/196/1540966231107.jpg",
+                "productName": "UGG"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/31/103/1540970053295.jpg",
+                "productName": "本那"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/26/29/1540546128638.jpg",
+                "productName": "艾斯臣"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/13/151/1536839138741.jpg",
+                "productName": "卡美多"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/01/11/62/1515659650948.jpg",
+                "productName": "PEDRO MIRALLES&WONDERS"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/09/120/1520564187400.jpg",
+                "productName": "CAT"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/11/06/533/1509970966674.jpg",
+                "productName": "DE VERLI"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/2017/10/24/88/1508845029337.jpg",
+                "productName": "EASY SPIRIT"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/30/176/1538293112266.jpg",
+                "productName": "如熙"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/08/861/1502191025903.jpg",
+                "productName": "ELLEHOMME"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/17/100/1539770430245.jpg",
+                "productName": "金利来"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/11/12/72/1541985648881.jpg",
+                "productName": "莎莎苏"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "categoryId": "21007",
+        "imageUrl": "",
+        "name": "美妆",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "categoryId": "44687",
+        "imageUrl": "",
+        "name": "母婴",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/07/31/11/1533033265763.jpg",
+                "productName": "宇风宝贝"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/08/22/43/1534922897142.jpg",
+                "productName": "卡拉羊"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/07/194/1536314758135.jpg",
+                "productName": "匡威男女童"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/01/31/77/1517386829254.jpg",
+                "productName": ""
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/11/0/1536634031902.jpg",
+                "productName": "方广"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2019/01/11/105/1547192373626.jpg",
+                "productName": "361°"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/08/27/189/1535364454433.jpg",
+                "productName": "七波辉"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/14/150/1536904678031.jpg",
+                "productName": "JEEP"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/10/44/1539152761959.jpg",
+                "productName": "LEVI'S"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/09/18/48/1537239913019.jpg",
+                "productName": "ME&CITY KIDS"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/10/24/25/1540372757373.jpg",
+                "productName": "安踏"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "http://b.appsimg.com/2017/09/19/600/1505814409575.jpg",
+                "productName": "安徒生"
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "categoryId": "21062",
+        "imageUrl": "",
+        "name": "男装",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 7,
+        "categoryId": "20908",
+        "imageUrl": "",
+        "name": "精品",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2019/01/07/183/1546850267864.jpg",
+                "productName": "翠绿"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/809/1502451639667.jpg",
+                "productName": "7°C银匠世家"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/12/18/188/1545143651318.jpg",
+                "productName": "JUST CAVALLI"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/12/20/52/1545291377051.jpg",
+                "productName": "KMONADO"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/02/22/199/1519282710441.jpg",
+                "productName": "RENA CHRIS"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/07/17/170/1531813189285.jpg",
+                "productName": "茜子"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/02/22/47/1519280516008.jpg",
+                "productName": "佰色传情"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/02/23/86/1519353568439.jpg",
+                "productName": "宝岛"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/15/193/1521104980099.jpg",
+                "productName": "精工"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/21/92/1529587622752.jpg",
+                "productName": "卡尔文克莱恩"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/05/110/1520242823804.jpg",
+                "productName": "卡西欧"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "http://b.appsimg.com/2017/06/25/232/1498373976143.jpg",
+                "productName": "派克"
+            }
+        ]
+    },
+    {
+        "id" : 8,
+        "categoryId": "21114",
+        "imageUrl": "",
+        "name": "运动户外",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 9,
+        "categoryId": "69269",
+        "imageUrl": "",
+        "name": "内衣",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "categoryId": "21089",
+        "imageUrl": "",
+        "name": "家居家纺",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 11,
+        "categoryId": "67739",
+        "imageUrl": "",
+        "name": "家电数码",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 12,
+        "categoryId": "148917",
+        "imageUrl": "",
+        "name": "唯风尚",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : "67714",
+        "categoryId": "67714",
+        "imageUrl": "",
+        "name": "箱包",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 14,
+        "categoryId": "49725",
+        "imageUrl": "",
+        "name": "唯品生活",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 15,
+        "categoryId": "149081",
+        "imageUrl": "",
+        "name": "唯品奢",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 16,
+        "categoryId": "128858",
+        "imageUrl": "",
+        "name": "唯品国际",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 17,
+        "categoryId": "244243",
+        "imageUrl": "",
+        "name": "唯品牌",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    },
+    {
+        "id" : 18,
+        "categoryId": "149670",
+        "imageUrl": "",
+        "name": "唯品优选",
+        "child":[
+            {
+                "id" : 1,
+                "imageUrl": "http://b.appsimg.com/2017/09/04/787/1504532205810.jpg",
+                "productName": "欧莱雅小美盒"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "http://b.appsimg.com/2017/10/28/628/1509121546516.jpg",
+                "productName": "The History of Whoo"
+            },
+            {
+                "id" : 3,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/03/27/98/1522150272038.jpg",
+                "productName": "HUGO BOSS"
+            },
+            {
+                "id" : 4,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/307/1502263808150.jpg",
+                "productName": "SK-II"
+            },
+            {
+                "id" : 5,
+                "imageUrl": "http://b.appsimg.com/2017/08/11/370/1502454995890.jpg",
+                "productName": "VOV"
+            },
+            {
+                "id" : 6,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/05/11/20/1525978712343.jpg",
+                "productName": "阿迪达斯"
+            },
+            {
+                "id" : 7,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/987/1502265895406.jpg",
+                "productName": "阿芙"
+            },
+            {
+                "id" : 8,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/58/1527836028912.jpg",
+                "productName": "安娜苏"
+            },
+            {
+                "id" : 9,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/821/1502264054231.jpg",
+                "productName": "百雀羚"
+            },
+            {
+                "id" : 10,
+                "imageUrl": "http://b.appsimg.com/2017/08/09/644/1502263747620.jpg",
+                "productName": "佰草集"
+            },
+            {
+                "id" : 11,
+                "imageUrl": "http://b.appsimg.com/upload/momin/2018/06/01/33/1527835869139.jpg",
+                "productName": "宝格丽"
+            },
+            {
+                "id" : 12,
+                "imageUrl": "https://h2.appsimg.com/b.appsimg.com/2017/08/09/786/1502264745913_690x224_80.jpg",
+                "productName": "贝佳斯"
+            }
+        ]
+    }
+
+
+
+
+]

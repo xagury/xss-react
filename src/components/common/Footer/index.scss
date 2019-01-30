@@ -1,0 +1,95 @@
+.app-Footer-box{
+  overflow: hidden;
+    background-color: #f3f4f5;
+
+    .vipClient {
+      overflow: hidden;
+      padding: 0.1rem 0.3rem;
+      position: relative;
+      display: block;
+      border-bottom: 1px solid #eaeaea;
+      .vipLogo {
+        float: left;
+        margin: 0 0.26667rem 0 0;
+        width: .5rem;
+        height: .5rem;
+        background: #ea4c88;
+        border-radius: 0.1rem;
+        font-size: 0.12rem;
+        color: #fff;
+        line-height: .5rem;
+        text-align: center;
+        background-image: -webkit-gradient(
+          linear,
+          left top,
+          left bottom,
+          color-stop(0, #e2007e),
+          color-stop(1, #d40075)
+        );
+      }
+      p {
+        float: left;
+        color: #222;
+        font-size: 0.12rem;
+        line-height: 0.5rem;
+      }
+      .vipDown {
+        margin-top: 0.06rem;
+        float: right;
+        color: #cf3e8e;
+        padding: 0 0.2rem;
+        line-height: 0.34667rem;
+        border: 1px solid #cf3e8e;
+        position: relative;
+        border-radius: 0.05333rem;
+        background-color: #f3f4f5;
+      }
+    }
+    .vipHome {
+      overflow: hidden;
+      text-align: right;
+      padding: 0.03rem 0.1rem 0;
+      line-height: 0.2rem;
+      a {
+        float: left;
+        font-size: 0.14rem;
+        color: #585c64;
+        padding: 0 0.13333rem;
+      }
+      a:nth-child(3) {
+        float: right;
+      }
+    }
+    .copyRight {
+      font-size: 0.12rem;
+      color: #ccc;
+      text-align: center;
+      line-height: 0.23333rem;
+      padding: 0.1rem 0.1rem 0;
+      margin: 0;
+    }
+    .police {
+      width: 3rem;
+      margin: 0 auto;
+      padding: 0.13333rem 1rem;
+      text-align: center;
+      overflow: hidden;
+      .policeIcon {
+        background-image: url(/img/police.png);
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        background-size: cover;
+        width: 0.23333rem;
+        height: 0.23333rem;
+        float: left;
+      }
+      p {
+        float: left;
+        height: 0.23333rem;
+        line-height: 0.23333rem;
+        margin: 0 0 0 0.13333rem;
+        color: #ccc;
+        font-size: 0.13rem;
+      }
+    }
+}

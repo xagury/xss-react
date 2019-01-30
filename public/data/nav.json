@@ -1,0 +1,129 @@
+[{
+        "id": 1567,
+        "title": "女装",
+        "sotr": 2,
+        "tag": "nbnvzhuang.html",
+        "tracking": "floating-index-nbnvzhuang_btn",
+        "type_id": 0,
+        "type_value": "",
+        "wap_url": "nbnvzhuang.html"
+    },
+    {
+        "id": 1569,
+        "title": "男装",
+        "sotr": 3,
+        "tag": "nbnanzhuang.html",
+        "tracking": "floating-index-nbnanzhuang_btn"
+    },
+    {
+        "id": 1568,
+        "title": "鞋包",
+        "sotr": 4,
+        "tag": "nbxiebao.html",
+        "tracking": "floating-index-nbxiebao_btn"
+    },
+    {
+        "id": 1587,
+        "title": "童装童鞋",
+        "sotr": 5,
+        "tag": "nbtongzhuangtongxie.html"
+    },
+    {
+        "id": 1585,
+        "title": "面部护肤",
+        "sotr": 6,
+        "tag": "nbmianbuhufu.html"
+    },
+    {
+        "id": 1571,
+        "title": "手表配饰",
+        "sotr": 7,
+        "tag": "nbshoubiaopeishi.html"
+    },
+    {
+        "id": 1572,
+        "title": "内衣",
+        "sotr": 8,
+        "tag": "nbneiyi.html",
+        "tracking": "floating-index-nbneiyi_btn"
+    },
+    {
+        "id": 1573,
+        "title": "运动户外",
+        "sotr": 9,
+        "tag": "nbyundonghuwai.html"
+    },
+    {
+        "id": 1570,
+        "title": "手机数码",
+        "sotr": 12,
+        "tag": "nbshoujishuma.html"
+    },
+    {
+        "id": 1526,
+        "title": "轻奢",
+        "sotr": 13,
+        "tag": "nbqingshe.html",
+        "tracking": "floating-index-nbqingshe_btn"
+    },
+    {
+        "id": 1549,
+        "title": "旗舰店",
+        "sotr": 14,
+        "tag": "nbqijiandian.html"
+    },
+    {
+        "id": 1548,
+        "title": "国际",
+        "sotr": 15,
+        "tag": "nbguoji.html",
+        "tracking": "floating-index-nbguoji_btn"
+    },
+    {
+        "id": 1534,
+        "title": "母婴",
+        "sotr": 16,
+        "tag": "nbmuying.html",
+        "tracking": "floating-index-nbmuying_btn"
+    },
+    {
+        "id": 1337,
+        "title": "家居家纺",
+        "sotr": 17,
+        "tag": "jiajujiafang.html"
+    },
+    {
+        "id": 1442,
+        "title": "大家电",
+        "sotr": 18,
+        "tag": "dajiadian.html",
+        "tracking": "floating-index-dajiadian_btn"
+    },
+    {
+        "id": 1441,
+        "title": "家具家装",
+        "sotr": 19,
+        "tag": "jiajujiazhuang.html"
+    },
+    {
+        "id": 1465,
+        "title": "唯品优选",
+        "sotr": 20,
+        "tag": "youxuan.html",
+        "tracking": "floating-index-mst_btn"
+    },
+    {
+        "id": 1310,
+        "title": "生活超市",
+        "sotr": 21,
+        "tag": "leftlife.html",
+        "tracking": "floating-index-leftlife_btn"
+    },
+    {
+        "id": 1472,
+        "title": "唯品医药",
+        "sotr": 22,
+        "tag": "yiyao.html",
+        "tracking": "floating-index-mst_btn"
+    }
+]

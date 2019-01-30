@@ -1,0 +1,54 @@
+.app-ListContents-box{
+    background:#fff;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    height: 100%;
+    overflow-y: auto;
+    h5 {
+        font-weight: 900;
+        font-size: 0.12rem;
+        color: #000;
+        text-align: left;
+        line-height: .7rem;
+        
+      }
+      .shop {
+        
+        overflow: hidden;
+        font-size: .12rem;
+          display: inline-block;
+          color: #222;
+          width: .8rem;
+          text-align: center;
+          letter-spacing: normal;
+          vertical-align: top;
+          float:left;
+        img {
+         
+          width: .6rem;
+          height: .7rem;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        p {
+              white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          width: 100%;
+          padding: .02rem 0 .1rem;
+          line-height: .2rem;
+        }
+      }
+      .shop-title{
+        overflow:hidden;
+        box-sizing:border-box;
+        padding:0 .2rem;
+      }
+      .shopBox{
+        overflow:hidden;
+      
+        border-bottom:1px solid #eaeaea;
+        
+      }
+}

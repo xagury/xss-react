@@ -1,0 +1,113 @@
+.app-Nbmuyingtop-box {
+  overflow: hidden;
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .banner {
+  }
+  .cutDown {
+    overflow: hidden;
+    width: 100%;
+    height: 0.472rem;
+    background: url(https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/17/160/15476909431055.jpg)
+      no-repeat;
+      background-size:100% auto;
+    .countdown {
+      margin: 0.1rem auto;
+      color: #fff;
+      .time {
+        color: #222;
+        padding: 0.05rem;
+        background: #fff;
+        border-radius: 0.05rem;
+        margin: 0 0.1rem;
+        font-size: 0.2rem;
+      }
+    }
+  }
+  .superImg {
+    display: flex;
+    .superImg-left{
+      height:100%;
+      width: 1.25rem;
+      flex:1;
+    }
+    .superImg-right{
+      flex:3;
+      overflow: hidden;
+      img{
+        width: 1.25rem;
+        height: 1.3rem;
+        float:left;
+      }
+    }
+    
+  }
+  main {
+    .buy {
+      width: 100%;
+      padding: 0.16rem 0;
+      font-size: 0.16rem;
+      color: #000;
+      text-align: center;
+      line-height: 0.16rem;
+      background: #fff;
+    }
+    .shop-box {
+      width: auto;
+      background-color: #f3f4f5;
+      .main{
+        padding-top:.1rem;
+      }
+      .p-box {
+         
+        padding: 0.09333rem 3.125% 0.3rem;
+        font-size: 0.14rem;
+        font-weight: 800;
+        text-align: left;
+        color: #222;
+        background-color: #fff;
+        position: relative;
+        width: 93.75%;
+        .p-span{
+            margin-right:.05rem;
+        }
+        .pms{
+            position: relative;
+
+    padding-left: .02rem;
+            bottom:-.1rem;
+    line-height: .2rem;
+    font-size: .12rem;
+    color: #5771a8;
+    width: 93.75%;
+    overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+        }
+      }
+      .p-box:before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        border-bottom: 1px solid #e7e7e7;
+        -webkit-transform: scaleY(0.5);
+        -webkit-transform-origin: 0 0;
+        pointer-events: none;
+      }
+      .timer{
+        position: absolute;
+        top: .11rem;
+        font-weight: 100;
+        right: 3.125%;
+        font-size: .12rem;
+        color: #98989f;
+      }
+    }
+  }
+}

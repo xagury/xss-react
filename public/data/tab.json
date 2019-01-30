@@ -1,0 +1,51 @@
+
+
+[{
+    "id": 1590,
+    "name": "今日推荐",
+    "sort": 1,
+    "tag": "index",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/12/03/28/1543820113805.png"
+}, {
+    "id": 1377,
+    "name": "美妆",
+    "sort": 10,
+    "tag": "newbeauty",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/2017/05/17/844/1495012505829.png"
+}, {
+    "id": 1576,
+    "name": "母婴",
+    "sort": 11,
+    "tag": "nbmuyingtop",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/09/26/1/1537956054861.png"
+}, {
+    "id": 1575,
+    "name": "国际",
+    "sort": 12,
+    "tag": "nbguojitop",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/09/26/174/1537955975711.png"
+}, {
+    "id": 1511,
+    "name": "家电",
+    "sort": 13,
+    "tag": "jiadian",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/05/18/54/1526645014855.png"
+}, {
+    "id": 1512,
+    "name": "家居",
+    "sort": 14,
+    "tag": "jiaju",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/05/18/99/1526645175358.png"
+}, {
+    "id": 1390,
+    "name": "生活",
+    "sort": 15,
+    "tag": "lifemarket",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/2017/05/23/653/1495508530492.png"
+}, {
+    "id": 1470,
+    "name": "唯品·奢",
+    "sort": 16,
+    "tag": "lux",
+    "default_icon": "//h2.appsimg.com/b.appsimg.com/upload/momin/2018/01/18/119/1516257961448.png"
+}]

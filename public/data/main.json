@@ -1,0 +1,123 @@
+[{
+        "id": 1,
+        "discount": 8.5,
+        "imgsrc": "/img/main-body5.jpg",
+        "time": "剩2天",
+        "desc": "TOM FORD彩妆专场",
+        "intro": ""
+
+    },
+    {
+        "id": 2,
+        "discount": 1.5,
+        "imgsrc": "/img/ias_154726324295138_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "巴拉巴拉balabala男女童及旗下品牌特卖",
+        "intro": ""
+    },
+    {
+        "id": 3,
+        "discount": 1.9,
+        "imgsrc": "/img/ias_154718928570376_1135x545_85.jpg",
+        "time": "剩4天",
+        "desc": "【24小时折上8折】小熊TEENIEWEENIE女装热卖专场",
+        "intro": "| TEENIEWEENIE，全场折上8折！"
+    },
+    {
+        "id": 4,
+        "discount": 3.5,
+        "imgsrc": "/img/ias_154719863824895_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "飘蕾PEOLEO女装 新春新衣专场",
+        "intro": ""
+    },
+    {
+        "id": 5,
+        "discount": 1.4,
+        "imgsrc": "/img/ias_154718927099338_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "【24小时羊绒1折起】帕罗Paluopo新年特惠绒生万象专场-今日大牌",
+        "intro": "| 帕罗羊绒，全场折上7折！"
+    },
+    {
+        "id": 6,
+        "discount": 1.7,
+        "imgsrc": "/img/ias_154718986271056_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "时尚直降-马克华菲FAIRWHALE 男装专场",
+        "intro": ""
+    },
+    {
+        "id": 7,
+        "discount": 1.1,
+        "imgsrc": "/img/ias_154719840264764_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "桃气心机妆容",
+        "intro": ""
+    },
+    {
+        "id": 8,
+        "discount": 0.9,
+        "imgsrc": "/img/ias_153801386013050_1135x545_85.jpg",
+        "time": "剩4天",
+        "desc": "惠你精选!太平鸟男装专场",
+        "intro": ""
+    },
+    {
+        "id": 9,
+        "discount": 0.4,
+        "imgsrc": "/img/ias_154725973381641_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "舒朗集团-最后疯抢专场",
+        "intro": ""
+    },
+    {
+        "id": 10,
+        "discount": 3.7,
+        "imgsrc": "/img/ias_154641053863475_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "拉夏贝尔旗下7.modifier女装专场",
+        "intro": ""
+    },
+    {
+        "id": 11,
+        "discount": 3.7,
+        "imgsrc": "/img/ias_154719209070495_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "软软软软软软",
+        "intro": ""
+    },
+    {
+        "id": 12,
+        "discount": 1.7,
+        "imgsrc": "/img/ias_154719659757538_1135x545_85.jpg",
+        "time": "剩1天",
+        "desc": "软软软软软软",
+        "intro": ""
+    },
+    {
+        "id": 13,
+        "discount": 1.9,
+        "imgsrc": "/img/ias_154702501215672_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "不吃土，也能拥有少女香气",
+        "intro": ""
+    },
+    {
+        "id": 14,
+        "discount": 1.2,
+        "imgsrc": "/img/ias_154718101839899_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "限时秒杀-美妆滋补",
+        "intro": ""
+    },
+    {
+        "id": 15,
+        "discount": 1.8,
+        "imgsrc": "/img/ias_154701546092927_1135x545_85.jpg",
+        "time": "剩2天",
+        "desc": "LOVO家纺-最后疯抢专场",
+        "intro": ""
+    }
+
+]

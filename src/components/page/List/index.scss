@@ -1,0 +1,143 @@
+.app-List-box {
+  background: #fff;
+
+  ul {
+    overflow: hidden;
+
+    li {
+      float: left;
+      margin-left: .08667rem;
+      position: relative;
+      display: inline-block;
+      vertical-align: top;
+      width: 1.78rem;
+      margin-bottom: .21333rem;
+      background: #fff;
+      -webkit-box-sizing: border-box;
+      -o-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+      box-sizing: border-box;
+
+      a {
+        display: block;
+      }
+
+      .img-box {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+
+        img {
+          transform-origin: 0px 0px 0px;
+          opacity: 1;
+          transform: scale(1, 1);
+          display: block;
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      .price-box {
+        position: relative;
+        color: #98989f;
+        flex-wrap: wrap;
+        overflow: hidden;
+        text-align: left;
+        padding:0 .1rem;
+        .price {
+          font-size: .18rem;
+          color: #222;
+          max-width: 100%;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        .prePrice {
+          vertical-align: middle;
+          text-decoration: line-through;
+          font-size: .12rem;
+          padding-left: .06667rem;
+          color: #98989f;
+        }
+
+        .discount {
+
+          font-size: .12rem;
+          padding-left: .06667rem;
+          color: #98989f;
+
+        }
+
+      }
+
+      .name-box {
+        word-break: break-all;
+        text-overflow: ellipsis;
+        display: -webkit-box;  
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-align: left;
+        height: 0.40667rem;
+        white-space: normal;
+        position: relative;
+        padding: 0 .13rem;
+        font-size: .12rem;
+        line-height: .24rem;
+        color: #585c64;
+      }
+    }
+  }
+
+
+  header {
+   
+    .searchBack {
+
+      display: block;
+      margin-top: .1rem;
+      color: #555;
+  
+    }
+    .homeIcon {
+      display: block;
+      width: .23rem;
+      height: .23rem;
+
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    .search {
+      width: 2.6rem;
+
+      span {
+        border: 1px solid #ccc;
+        display: block;
+       
+        background: #fff;
+        border-radius: 0rem;
+        height: 70%;
+        color: #222;
+        font-size: 0.15rem;
+        line-height: .3rem;
+        text-align: left;
+        padding: 0 0.1rem;
+        background-color: #f3f4f5;
+      
+
+      }
+    }
+
+    .search-a {
+      color: #555;
+      font-size: .14rem;
+    }
+  }
+
+}

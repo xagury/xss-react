@@ -1,0 +1,48 @@
+.app-ListNavs-box {
+    overflow: scroll;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    ul {
+     
+        overflow: hidden;
+        display: block;
+
+        li {
+            position: relative;
+
+
+            color: #585c64;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            background: #f3f4f5;
+
+
+            a {
+                height: .45rem;
+                font-size: .14rem;
+                line-height: .45rem;
+                color: #101622;
+                display: block;
+                border-bottom: 1px solid #eaeaea;
+            }
+        }
+        .active {
+            background: #fff;
+            color: #222;
+        }
+    
+        .active:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 0.03667rem;
+            height: 100%;
+            font-size: 0;
+            background-color: #de3d96;
+        }
+    }
+}

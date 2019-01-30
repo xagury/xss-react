@@ -1,0 +1,43 @@
+.app-Tab-box {
+    overflow: scroll;
+
+
+    ul {
+
+        overflow: hidden;
+        display: table;
+        overflow-y: hidden;
+
+        li {
+            padding: 0;
+            display: table-cell;
+            white-space: nowrap;
+            background-color: #f9f9fa;
+            a {
+                display: block;
+                padding: 0 .1rem;
+                color: #585c64;
+                font-size: .14rem;
+                text-align: center;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+                position: relative;
+                line-height: .34rem;
+            }
+        }
+
+        .active {
+            color: rgb(211, 75, 168);
+        }
+        .active:after {
+            content: "";
+            position: absolute;
+            left: 10%;
+            right: 0;
+            height: 3px;
+            bottom: 0;
+            width: 80%;
+            background-color: #d34ba8;
+        }
+    }
+}

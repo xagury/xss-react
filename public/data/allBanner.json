@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "tag": "newbeauty",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/163/15476418429238.jpg"
+    },
+    {
+        "id" : 2,
+        "tag": "nbmuyingtop",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/55/15476121342611.gif"
+    },
+    {
+        "id" : 3,
+        "tag": "nbguojitop",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/55/15476121342611.gif"
+    },
+    {
+        "id" : 4,
+        "tag": "jiadian",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/2/15476073341866.gif"
+    },
+    {
+        "id" : 5,
+        "tag": "jiaju",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/73/15476419043843.gif"
+    },
+    {
+        "id" : 6,
+        "tag": "lifemarket",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/197/15476304566776.jpg"
+    },
+    {
+        "id" : 7,
+        "tag": "lux",
+        "imgUrl": "https://h2.appsimg.com/a.appsimg.com/upload/flow/2019/01/16/55/15476235261671.jpg"
+    }
+]

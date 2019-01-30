@@ -1,0 +1,6 @@
+const ADD_CAR = 'ADD_CAR'
+const REDUCE_CAR = 'REDUCE_CAR'
+const GET_LIST = 'GET_LIST'
+export {
+  ADD_CAR,REDUCE_CAR,GET_LIST
+}

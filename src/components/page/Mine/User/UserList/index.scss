@@ -1,0 +1,24 @@
+.app-UserList-box{
+  background:#fff;
+    :global{
+      .am-list .my-list{
+        background: #fff;
+      }
+      .am-list-item{
+        min-height:.5rem;
+      }
+      .am-list-item .am-list-line .am-list-content{
+        font-size:.16rem;
+        color: #555;
+      }
+      .am-list-footer{
+        padding: 23px 15px;
+        background: #fff;
+    border-top: .001rem solid #ddd;
+    border-bottom: .001rem solid #ddd;
+    margin: 17px 0;
+    color:#555;
+    font-size:.16rem;
+      }
+    }
+}

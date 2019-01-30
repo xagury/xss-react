@@ -1,0 +1,178 @@
+.app-Home-box {
+
+    padding-top: .78rem;
+
+    .fixedHeader {
+        position: fixed;
+        top: 0;
+        z-index: 10001;
+        width: 100%;
+    }
+
+    nav {
+        background: #f9f9fa;
+        height: .34rem;
+        overflow: hidden;
+        -ms-touch-action: none;
+        touch-action: none;
+    }
+
+    .brandSale-box {
+        overflow: hidden;
+
+        .topImg {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .contentImg {
+            overflow: hidden;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            height: 1.6rem;
+
+            img {
+
+                width: 33.333333%;
+                height: auto;
+            }
+        }
+    }
+
+    .crazy-box {
+        overflow: hidden;
+        height: 2.2rem;
+        background: url(/img/mst_d9e9c95de13fc2adc341012c69791875.jpg) no-repeat;
+        background-size: 100% 100%;
+        width: 100%;
+
+        .contentCrazy {
+
+            display: flex;
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 0 .04rem;
+            padding-top: .7rem;
+            padding-bottom: .1rem;
+            justify-content: space-around;
+
+            .leftCrazy {
+                width: 30%;
+                background: url(/img/ias_154354844231745.jpg) no-repeat;
+                background-size: 100% 100%;
+                position: relative;
+
+                img {
+                    position: absolute;
+                    display: block;
+                    width: .5rem;
+                    height: .3rem;
+                    bottom: .35rem;
+                    left: .27rem;
+                }
+
+                span {
+                    position: absolute;
+                    display: block;
+                    bottom: .15rem;
+                    left: .28rem;
+
+                }
+            }
+
+            .centerCrazy {
+                width: 30%;
+                background: url(/img/ias_154702521414748.jpg) no-repeat;
+                background-size: 100% 100%;
+                position: relative;
+
+                img {
+                    position: absolute;
+                    display: block;
+                    width: .5rem;
+                    height: .3rem;
+                    bottom: .35rem;
+                    left: .27rem;
+                }
+
+                span {
+                    position: absolute;
+                    display: block;
+                    bottom: .15rem;
+                    left: .28rem;
+
+                }
+
+            }
+
+            .rightCrazy {
+                width: 30%;
+                background: url(/img/ias_154708710746762.jpg) no-repeat;
+                background-size: 100% 100%;
+                position: relative;
+
+                img {
+                    position: absolute;
+                    display: block;
+                    width: .5rem;
+                    height: .3rem;
+                    bottom: .35rem;
+                    left: .27rem;
+                }
+
+                span {
+                    position: absolute;
+                    display: block;
+                    bottom: .15rem;
+                    left: .28rem;
+
+                }
+
+            }
+        }
+    }
+
+    .cart-box {
+        position: fixed;
+        bottom: .3rem;
+        left: .2rem;
+        width: .5rem;
+        height: .5rem;
+        z-index: 1280;
+        background-color: rgba(25, 29, 38, .95);
+        border-radius: .6rem;
+
+        .cartIcon {
+            display: block;
+            width: .3rem;
+            height: .3rem;
+            line-height: .7rem;
+            margin-left: .08rem;
+            color: #fff;
+
+            a {
+                display: block;
+                position: relative;
+                width: 100%;
+                height: 100%;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+    }
+
+    :global {
+
+        .am-tabs-default-bar-underline {
+            border: 1px solid #d34ba8;
+        }
+    }
+}

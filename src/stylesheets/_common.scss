@@ -1,0 +1,21 @@
+
+html,body{
+    height:100%;
+    ::-webkit-scrollbar {    width: 0px;
+
+    }
+    ::-webkit-scrollbar {
+
+        display: none;/*隐藏滚轮*/
+        
+        }
+
+}
+
+:global {
+
+    .am-navbar {
+        background-color: #f9f9fa;
+        color:#222;
+    }
+}
